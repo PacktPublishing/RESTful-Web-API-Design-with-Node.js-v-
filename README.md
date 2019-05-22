@@ -27,17 +27,17 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is for Node.js developers who know JavaScript and are familiar with HTML and CSS. Knowledge of REST or HTTP is not essential as this course provides all the background information required to get you started.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-An editor like Atom, Sublime Text or Visual Studio Code
-Node.js
-Express
-MongoDB 
+An editor like Atom, Sublime Text or Visual Studio Code<br/>
+Node.js<br/>
+Express<br/>
+MongoDB <br/><br/>
 
-This course has been tested on the following system configuration:
-OS: MacOS
-Processor: Dual Core 2.2 Ghz
-Memory: 4GB
-Hard Disk Space: 4 GB - 6 GB
-Video Card: 512MB Video Memory
+This course has been tested on the following system configuration:<br/>
+OS: MacOS<br/>
+Processor: Dual Core 2.2 Ghz<br/>
+Memory: 4GB<br/>
+Hard Disk Space: 4 GB - 6 GB<br/>
+Video Card: 512MB Video Memory<br/>
 
 ## Related Products
 * [Mastering REST APIs in Node.js: Zero To Hero [Video]](https://www.packtpub.com/application-development/mastering-rest-apis-nodejs-zero-hero-video?utm_source=github&utm_medium=repository&utm_campaign=9781838825232)
